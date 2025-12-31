@@ -1,13 +1,3 @@
---[[
---------------------------------------------------------------------------------
--- SCRIPT CHÍNH: Bdvn2 - Main Driver Utility HUB (v1.1) - ĐÃ CẬP NHẬT
--- Tác Giả: Lâm Mod
--- Mô Tả: Script đa năng dành cho Bdvn2, bao gồm Loading Bar, Discord Link Copy, và Main Menu.
--- Đảm bảo 100% logic chạy được.
---------------------------------------------------------------------------------
-]]
-
--- 1. KHAI BÁO CÁC SERVICE HỆ THỐNG
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
